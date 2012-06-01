@@ -1,0 +1,6 @@
+pluginclassname=DailyCoursesListPlugin
+pluginname=DailyCoursesList
+origin=data-quest
+version=1.0-ol
+studipMinVersion=2.0
+

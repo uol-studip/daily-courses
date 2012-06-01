@@ -1,0 +1,12 @@
+#layout_container {
+	background-color: white;
+	padding: 0 0 1em 0;
+}
+#DailyCoursesListPlugin_sem_tree_id option {
+    padding: 2px;
+    padding-left: 1em;
+}
+#DailyCoursesListPlugin_sem_tree_id option.top-level {
+    font-weight: bold;
+    padding-left: 0;
+}
